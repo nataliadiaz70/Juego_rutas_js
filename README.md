@@ -32,4 +32,4 @@ Dependiendo de lo que elijas, el destino del personaje será diferente 🚀.
 ## 🚀 Cómo jugar
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/juego-rutas-js.git
+   git clone https://github.com/nataliadiaz70/juego-rutas-js.git
