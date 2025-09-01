@@ -15,7 +15,10 @@ Dependiendo de lo que elijas, el destino del personaje será diferente 🚀.
 
 ---
 ## 🖼️ Vista previa
-![Vista previa del juego](https://github.com/nataliadiaz70/juego-rutas-js/raw/main/captura-juego.png)
+![Vista previa del juego](https://via.placeholder.com/800x400.png?text=Juego+de+Rutas+en+Programacion)
+<img width="1920" height="1080" alt="captura-juego" src="https://github.com/user-attachments/assets/9d75f6e7-fc86-4083-864c-44d604010d4b" />
+
+
 ---
 
 
