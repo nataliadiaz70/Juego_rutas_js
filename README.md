@@ -15,13 +15,6 @@ Dependiendo de lo que elijas, el destino del personaje será diferente 🚀.
 
 ---
 
-## 🖼️ Vista previa
-![Vista previa del juego](https://via.placeholder.com/800x400.png?text=Juego+de+Rutas+en+Programac
-
-<img width="1920" height="1080" alt="Captura de pantalla de 2025-09-01 16-39-13" src="https://github.com/user-attachments/assets/82b3fc46-27e5-44bd-a8e1-67c962e837b7" />
-
----
-
 ## 🛠️ Tecnologías utilizadas
 - HTML5
 - CSS3
