@@ -14,6 +14,10 @@ Dependiendo de lo que elijas, el destino del personaje será diferente 🚀.
 - Al final, se muestra un resumen de tu camino de aprendizaje.
 
 ---
+## 🖼️ Vista previa
+![Vista previa del juego](https://github.com/nataliadiaz70/juego-rutas-js/raw/main/captura-juego.png)
+---
+
 
 ## 🛠️ Tecnologías utilizadas
 - HTML5
