@@ -33,3 +33,7 @@ Dependiendo de lo que elijas, el destino del personaje será diferente 🚀.
 1. Clonar este repositorio:
    ```bash
    git clone https://github.com/nataliadiaz70/juego-rutas-js.git
+
+✍️ Autor
+
+Hecho con ❤️ por Natalia Diaz   
