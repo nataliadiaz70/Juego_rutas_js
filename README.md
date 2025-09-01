@@ -16,9 +16,10 @@ Dependiendo de lo que elijas, el destino del personaje será diferente 🚀.
 ---
 
 ## 🖼️ Vista previa
-![Vista previa del juego](https://via.placeholder.com/800x400.png?text=Juego+de+Rutas+en+Programacion)
+![Vista previa del juego](https://via.placeholder.com/800x400.png?text=Juego+de+Rutas+en+Programacio
 
-*(Podés reemplazar esta imagen con una captura de tu juego una vez lo subas 😉)*
+<img width="1920" height="1080" alt="Captura de pantalla de 2025-09-01 16-35-33" src="https://github.com/user-attachments/assets/d550bafc-f5d2-4731-a03f-7a733e2bbbd9" />
+
 
 ---
 
