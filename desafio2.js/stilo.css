@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #f3f3f3;
+    text-align: center;
+    padding: 30px;
+  }
+  #juego {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    max-width: 500px;
+    margin: auto;
+  }
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: #007BFF;
+    color: white;
+    font-size: 16px;
+  }
+  button:hover {
+    background: #0056b3;
+  }
+  .opciones {
+    margin-top: 20px;
+  }
+  #resultado {
+    margin-top: 20px;
+    font-weight: bold;
+  }
